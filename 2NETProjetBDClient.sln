@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NETProjetBDClient.Console", "2NETProjetBDClient.Console\2NETProjetBDClient.Console.csproj", "{87ABD156-A02A-44A0-9C2C-ED0C7879DA65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NETProjetBDClient.BO", "2NETProjetBDClient.BO\2NETProjetBDClient.BO.csproj", "{A9D45E4F-744A-4B9A-ACE5-3385DE25E400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NETProjetBDClient.DAL", "2NETProjetBDClient.DAL\2NETProjetBDClient.DAL.csproj", "{CA5FDBE0-D70A-4401-83C4-0A20B88EC9CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{87ABD156-A02A-44A0-9C2C-ED0C7879DA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87ABD156-A02A-44A0-9C2C-ED0C7879DA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87ABD156-A02A-44A0-9C2C-ED0C7879DA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D45E4F-744A-4B9A-ACE5-3385DE25E400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D45E4F-744A-4B9A-ACE5-3385DE25E400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D45E4F-744A-4B9A-ACE5-3385DE25E400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D45E4F-744A-4B9A-ACE5-3385DE25E400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5FDBE0-D70A-4401-83C4-0A20B88EC9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5FDBE0-D70A-4401-83C4-0A20B88EC9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5FDBE0-D70A-4401-83C4-0A20B88EC9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5FDBE0-D70A-4401-83C4-0A20B88EC9CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
